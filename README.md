@@ -4,4 +4,4 @@ I build web applications with PHP and Laravel (inluding Filament and Livewire), 
 
 ## Selected projects
 
-- **Helix Garden** - A Laravel and Filament app with an admin panel for maintaining a plant catalog and a separate panel for managing gardens and plantings. Currently only the admin panel is maintained. [Source code](https://github.com/barryvdnberg/plant-dashboard)
+- 🌱 **Helix Garden** - A Laravel and Filament app with an admin panel for maintaining a plant catalog and a separate panel for managing gardens and plantings. Currently only the admin panel is maintained. [Source code](https://github.com/barryvdnberg/plant-dashboard)
